@@ -1,7 +1,8 @@
 # shards 💎
 <div align="center">
-###### 🔥 I'm a WIP! 👩 🚒
+🔥 I'm a WIP! 👩 🚒
 </div>
+<br>
 
 Shards is an experimental projection mapping project conducted by the tundra dawn crew.
 
