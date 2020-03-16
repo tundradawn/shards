@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/shards_tk100.unity
+- path: Assets/scenes/shards_tk100.unity
   isLoaded: 1
   isActive: 1
