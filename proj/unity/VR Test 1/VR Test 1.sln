@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Test 1", "Assembly-CSharp.csproj", "{23B728EF-4A0E-F46F-C4F7-E5C268EA7F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Test 1", "Assembly-CSharp-firstpass.csproj", "{49FE159A-77AD-8519-66D3-AC3F6DB6B69F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Test 1", "Assembly-CSharp-Editor.csproj", "{74F4FA07-D659-607B-AF95-0FFF8B9D31AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Test 1", "Assembly-CSharp-Editor-firstpass.csproj", "{5E1CA23B-EAC3-C006-BAC2-CE9F406EF792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B728EF-4A0E-F46F-C4F7-E5C268EA7F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B728EF-4A0E-F46F-C4F7-E5C268EA7F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B728EF-4A0E-F46F-C4F7-E5C268EA7F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B728EF-4A0E-F46F-C4F7-E5C268EA7F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FE159A-77AD-8519-66D3-AC3F6DB6B69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FE159A-77AD-8519-66D3-AC3F6DB6B69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FE159A-77AD-8519-66D3-AC3F6DB6B69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FE159A-77AD-8519-66D3-AC3F6DB6B69F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F4FA07-D659-607B-AF95-0FFF8B9D31AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F4FA07-D659-607B-AF95-0FFF8B9D31AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F4FA07-D659-607B-AF95-0FFF8B9D31AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F4FA07-D659-607B-AF95-0FFF8B9D31AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1CA23B-EAC3-C006-BAC2-CE9F406EF792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1CA23B-EAC3-C006-BAC2-CE9F406EF792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1CA23B-EAC3-C006-BAC2-CE9F406EF792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1CA23B-EAC3-C006-BAC2-CE9F406EF792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
